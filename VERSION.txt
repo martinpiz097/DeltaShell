@@ -1,0 +1,1 @@
+1.0 --> Comandos en funcionamiento, falta corregir el sudo su, apurar ejecucion de algunos comandos y terminar con touch, rm y mkdir
